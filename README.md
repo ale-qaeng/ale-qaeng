@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ale-qaeng
-- 👀 I’m interested in AI, LMMs, Automation, Robotics, Raspberry 
+- 👀 I’m interested in AI, Test Automation, Robotics, Raspberry Pi
 - 🌱 I’m currently learning ChatGpt/AI
 - 💞️ I’m looking to collaborate on AI + Test Automation 
 - 📫 How to reach me ...
