@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ale-qaeng
 - 👀 I’m interested in AI, Test Automation, Robotics, Raspberry Pi
 - 🌱 I’m currently learning ChatGpt/AI
-- 💞️ I’m looking to collaborate on AI + Test Automation 
+- 💞️ I’m looking to collaborate on Gen-AI + Test Automation 
 - 📫 How to reach me ...
 
 <!---
